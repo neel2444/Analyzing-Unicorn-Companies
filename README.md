@@ -110,9 +110,6 @@ ORDER BY region, rank_in_region;
 
 ## 🛠️ Tools & Skills
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=flat&logo=postgresql)
-![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?style=flat&logo=microsoftexcel)
-![Stats](https://img.shields.io/badge/Statistics-Hypothesis_Testing-E94560?style=flat)
 
 - **SQL:** JOINs, CTEs, Window Functions, GROUPING SETS, CASE, NULLIF
 - **Excel:** KPI dashboards, bar/pie charts, conditional formatting
